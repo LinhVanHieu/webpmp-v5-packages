@@ -9,7 +9,7 @@ function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'defau
 var React__default = /*#__PURE__*/_interopDefaultLegacy(React);
 
 function Button() {
-    return React__default["default"].createElement("button", null, "Test Button");
+    return React__default["default"].createElement("button", null, "Text");
 }
 
 exports.Button = Button;
