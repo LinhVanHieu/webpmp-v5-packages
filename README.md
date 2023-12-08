@@ -37,7 +37,5 @@ packages/
 
 package.json
 ```
-# test-lerna
-# test-lerna
-# test-lerna
+
 # test-lerna
