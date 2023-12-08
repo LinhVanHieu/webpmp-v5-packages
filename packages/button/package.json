@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "button_lerna_test",
   "version": "0.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
