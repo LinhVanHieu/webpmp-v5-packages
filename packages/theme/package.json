@@ -1,5 +1,5 @@
 {
-  "name": "webpmp-v5-theme",
+  "name": "webpmp-theme",
   "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,5 +23,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "afababbffbd2ca8e1e732558d0aee525884ed382"
+  "gitHead": "fe7b0d78058fea2f862a7be564e1640a6e7b118d"
 }
