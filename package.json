@@ -10,7 +10,5 @@
   "volta": {
     "node": "18.17.1"
   },
-  "dependencies": {
-  },
   "version": "0.0.2"
 }
