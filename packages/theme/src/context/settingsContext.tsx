@@ -178,4 +178,4 @@ export const SettingsProvider = ({
   );
 };
 
-export const SettingsConsumer = SettingsContext.Consumer;
+export const SettingsConsumer: any = SettingsContext.Consumer;
