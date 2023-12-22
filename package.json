@@ -7,8 +7,5 @@
   "devDependencies": {
     "lerna": "^7.4.2"
   },
-  "volta": {
-    "node": "18.17.1"
-  },
   "version": "0.0.2"
 }
